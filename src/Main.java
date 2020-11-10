@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello");
         // B21 is good at Intellij
+        // mac user and windows are finally happy
     }
 }
